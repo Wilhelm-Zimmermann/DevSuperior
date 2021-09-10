@@ -26,7 +26,3 @@ const Pagination = ({ page, onPageChange }: Props) => {
 }
 
 export default Pagination;
-
-function retunr(arg0: JSX.Element) {
-    throw new Error("Function not implemented.");
-}
